@@ -6,3 +6,9 @@
 
 
 [参考回答](https://upura.hatenablog.com/entry/2020/04/14/024948)
+
+## ディレクトリ説明
+* [Re-Study](Re-Study/)
+  * Pythonの基礎などの復習
+* [ch1_basic](ch1_basic/)
+  * 自然言語処理100本ノックの1章(01~09まで)
