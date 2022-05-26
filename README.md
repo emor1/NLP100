@@ -12,5 +12,5 @@
   * Pythonの基礎などの復習
 * [ch1_basic](ch1_basic/ch1.ipynb)
   * 自然言語処理100本ノックの1章(01~09まで)
-* [ch2_linux cmd](ch2_linux/ch2.ipynb)
+* [ch2_unix cmd](ch2_linux/ch2.ipynb)
   * 自然言語処理100本ノックの1章(01~09まで)
